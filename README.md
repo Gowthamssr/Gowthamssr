@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN<br>👯 I’m looking to collaborate on REACT OPEN SOURCE<br>🤝<br>🌱 I’m currently learning Backend<br>💬 Ask me about Anything<br>⚡ Fun fact I'm a spiderman
+🔭 I’m currently working on MERN<br>👯 I’m looking to collaborate on OPEN SOURCE<br>🤝<br>🌱 I’m currently working on problem Solving<br>💬 Ask me about Anything<br>⚡ Fun fact I'm a spiderman
 
 
 # 💻 Tech Stack:
